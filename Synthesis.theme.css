@@ -16,13 +16,13 @@
 :root {
     --synth-background-image:   url(https://raw.githubusercontent.com/jorgev259/silentwalker_wallpapers/main/images/Destiny%202/Desktop/Emblems/Long%20Slow%20Whisper.jpg);
     --synth-backdrop-opacity:   0.3         ;
-    --synth-overlay-color:      101 98 164   ;
+    --synth-overlay-color:      116 110 254 ;
     --synth-crt-light:          255 255 255 ;
     --synth-crt-dark:           0   0   0   ;
     --synth-crt-flicker:        none        ;   /* This is a fast flickering effect and may not be suitable for those with photosensitive epilepsy. */
 
     --synth-color-background:   20  6   36  ;
-    --synth-color-foreground:   101 98 164   ;
+    --synth-color-foreground:   116 110 254 ; /* used to be 101 98 164 */
     --synth-color-shadow:       0   0   128 ;
     --synth-color-button:       84  63  251 ;
     --synth-color-pop:          206 63  251 ;
