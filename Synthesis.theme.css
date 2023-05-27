@@ -15,7 +15,7 @@
 /* See https://github.com/Saltssaumure/synthesis-discord-theme#customisation for customisation settings. */
 :root {
     --synth-background-image:   url(https://raw.githubusercontent.com/jorgev259/silentwalker_wallpapers/main/images/Destiny%202/Desktop/Emblems/Long%20Slow%20Whisper.jpg);
-    --synth-backdrop-opacity:   0.1         ;
+    --synth-backdrop-opacity:   0.3         ;
     --synth-overlay-color:      234 237 255;
     --synth-crt-light:          255 255 255 ;
     --synth-crt-dark:           0   0   0   ;
